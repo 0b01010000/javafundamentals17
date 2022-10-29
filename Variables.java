@@ -1,6 +1,3 @@
-import java.util.Arrays;
-import java.util.List;
-
 public class Variables {
     public static void main(String[] args) {
         int i = 1;
