@@ -1,0 +1,12 @@
+image: gitpod/workspace-full
+
+vscode:
+  extensions:
+  - dracula-theme.theme-dracula
+  - Equinusocio.vsc-material-theme
+  - Equinusocio.vsc-material-theme-icons
+  - ms-vscode.hexeditor
+  - tonybaloney.vscode-pets
+  - redhat.java
+  - vscjava.vscode-java-debug
+  
